@@ -34,4 +34,4 @@ tsung/.python-version
 # ignore Jupyter Notebook
 *.ipynb linguist-documentation
 */.ipynb_checkpoints/*
-.ipynb_checkpoints
+.ipynb
