@@ -1,3 +1,2 @@
 report/* linguist-vendored
 *.rb linguist-vendored=false
-*.py linguist-vendored=false
