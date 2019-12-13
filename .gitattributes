@@ -1,3 +1,4 @@
 * linguist-vendored
 *.rb linguist-vendored=false
+*.yml linguist-vendored=false
 *.js linguist-detectable=false
