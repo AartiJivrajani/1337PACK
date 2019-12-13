@@ -1,1 +1,3 @@
 report/* linguist-vendored
+*.rb linguist-vendored=false
+*.js linguis-vendored=false
