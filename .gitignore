@@ -32,4 +32,4 @@ yarn-debug.log*
 tsung/.python-version
 
 # ignore Jupyter Notebook
-*.ipynb
+*.ipynb linguist-documentation
